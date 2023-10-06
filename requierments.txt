@@ -1,0 +1,10 @@
+python-docx
+openai
+pandas
+tiktoken
+tqdm
+more_itertools
+redis
+flask
+fastapi
+uvicorn
